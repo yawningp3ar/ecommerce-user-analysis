@@ -20,3 +20,26 @@
 - KMeans 用户画像聚类
 - 是否购买预测模型（LightGBM）
 - SHAP 可解释性分析
+
+
+# 🛍️ Analysis of E-commerce User Behaviors and Purchase Prediction 
+
+Based on the Tianchi dataset, a complete analysis loop covering data processing → user behavior analysis → conversion path visualization → user clustering → purchase prediction → SHAP interpretation has been accomplished. 
+
+## 📁 Project Structure 
+
+- `notebook/`: Main analysis logic (Jupyter Notebook)
+- `src/`: Reusable function or model scripts
+- `figures/`: Image output
+- `requirements.txt`: Environment dependencies 
+
+## 🧠 Technology Stack - Python, Pandas, Matplotlib, Seaborn
+- Scikit-learn, LightGBM
+SHAP (Model Interpretability) 
+
+## 💡 Analysis Contents
+- User Behavior Funnel Chart
+- Analysis of Active Periods
+- KMeans User Portrait Clustering
+- Prediction Model for Whether to Purchase (LightGBM)
+- SHAP Explainability Analysis 
